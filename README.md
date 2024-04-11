@@ -1,2 +1,22 @@
-# BLESSY.G_4045_ACEW
- CAR RENTAL APPLICATION WITH DJANGO FRAMEWORK
+# NM_FRIDAYBATCH_FSWD_PROJECT
+
+
+Project implemented by: 
+
+
+Name:
+
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
